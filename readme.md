@@ -2,10 +2,6 @@
 
 _A Simplified Git-like Version Control System_
 
-[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)]()
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
-
 ---
 
 ## Table of Contents
