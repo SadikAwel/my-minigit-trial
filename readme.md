@@ -1,5 +1,15 @@
 # MiniGit
+---
+## 👨‍💻 Team Members – Developers & Report Authors
 
+| Name               | ID           |
+|--------------------|--------------|
+| **Tamene Wolde**   | ATE/5140/15  |
+| **Sadik Awel**     | ATE/4047/15  |
+| **Mubarek Jemal**  | ATE/2478/15  |
+| **Terefe Mulushewa** | ATE/9042/15 |
+
+---
 _A Simplified Git-like Version Control System_
 
 ---
@@ -174,7 +184,7 @@ echo Diffing master (%master_head%) vs feature (%feature_head%)
 set "first_commit_hash=YOUR_ACTUAL_HASH"
 ./minigit diff %first_commit_hash%
 ```
-### 📽️ MiniGit Demonstration
+### 📽️ MiniGit Demonstration Video
 
 Want to see MiniGit in action?  
 Check out this short demo video showing a simple example of initializing a repository, adding files, making commits, and switching branches:
