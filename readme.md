@@ -174,6 +174,16 @@ echo Diffing master (%master_head%) vs feature (%feature_head%)
 set "first_commit_hash=YOUR_ACTUAL_HASH"
 ./minigit diff %first_commit_hash%
 ```
+### 📽️ MiniGit Demonstration
+
+Want to see MiniGit in action?  
+Check out this short demo video showing a simple example of initializing a repository, adding files, making commits, and switching branches:
+
+<a href="https://youtu.be/kGN5GuwusAw" target="_blank">
+  <img src="https://img.youtube.com/vi/kGN5GuwusAw/0.jpg" alt="MiniGit Demo Video" width="500">
+</a>
+
+> 🎬 _This video provides a quick walkthrough of MiniGit's core features using actual terminal commands._
 
 ---
 
